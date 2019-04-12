@@ -3,3 +3,10 @@ img.jquery {
     width: 110px;
     height: 110px;
 }
+
+.fab {
+    margin-left: 2px;
+}
+.fab:hover {
+    color: blue;
+}
