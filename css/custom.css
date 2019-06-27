@@ -16,3 +16,11 @@ img.jquery {
     height: auto !important;
     position: relative;
 }
+
+.mailTime{
+    color: blue;
+}
+
+.mailTime:hover {
+    color: purple;
+}
