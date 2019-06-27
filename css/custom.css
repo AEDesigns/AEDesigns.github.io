@@ -24,3 +24,12 @@ img.jquery {
 .mailTime:hover {
     color: purple;
 }
+
+.contact-div {
+    padding-bottom: 75px;
+}
+
+.arrow-down {
+    display: flex;
+    justify-content: center;
+}
