@@ -41,3 +41,12 @@ img.jquery {
 .fa-arrow-alt-circle-down:hover {
     color: blue;
 }
+
+.Mar-Vell{
+    height: auto;
+    width: 100%;
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
